@@ -1,0 +1,6 @@
+flask
+flask_smorest
+python-dotenv
+sqlalchemy
+flask-sqlalchemy
+
